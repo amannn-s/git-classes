@@ -92,3 +92,6 @@ A file that stores Git configuration settings.
 ---
 
 git init
+git status
+git add .
+git commit -m ""
